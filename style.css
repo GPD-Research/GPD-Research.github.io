@@ -363,3 +363,15 @@ footer a {
 .model.donate h2 {
     margin-top: 0;
 }
+
+.bmi-status ul {
+    padding-left: 1.2rem;
+}
+
+.bmi-status li {
+    margin: 0.35rem 0;
+}
+
+.bmi-status .katex {
+    font-size: 1.05em;
+}
